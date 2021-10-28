@@ -5,7 +5,7 @@
  no draft de 2019 baseado em estatisticas corporais dos melhores jogadores.
   O grupo decidiu criar personas com as estatísticas corporais para representar os jogadores desejados do ataque, defesa e especialista<h5>
  
- Abaixo se encontra o modelagem do banco de dados com as tabelas, chabes primárias e chaves estrangeiras:
+ Abaixo se encontra o modelagem do banco de dados com as tabelas, chaves primárias e chaves estrangeiras:
   
   ![Alt text](https://github.com/AlexPNO/SQL_NFL/blob/main/relacionamentos.jpeg)
   
